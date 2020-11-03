@@ -51,7 +51,7 @@ class App extends React.Component {
   render(){
     return (
       <div className="App">
-        <h1> Muhammad zubair Minhas</h1>
+        <h1> Muhammad zubair</h1>
        <Child count={this.state.count}/>
        <button onClick={this.increment}>
       Increment
