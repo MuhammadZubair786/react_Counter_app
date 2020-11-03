@@ -62,7 +62,7 @@ class App extends React.Component {
         <div className="container-fluid" >
           <div className="row" style={{backgroundColor:'#F4360D'}}>
             <div className="col col-lg-12 col-md-12 col-sm-12 col-12">
-              <img src={Image} width='80px'/>
+              <img src={Image} width='80px' alt=''/>
 
             </div>
           </div>
